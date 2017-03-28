@@ -5,9 +5,12 @@
 ## js animation 
 * [anime](https://github.com/juliangarnier/anime) - Javascript Animation Engine 
 
-## React component
+## React
+### React Component
 * [react-icons](https://github.com/gorangajic/react-icons) - 웬만한 font icon은 이걸로 다 해결할 수 있을 것 같다.
 
+### React Other
+* [react-bits](https://github.com/vasanthk/react-bits) - React patterns, techniques, tips and tricks
 
 ## intl
 * [react-intl](https://github.com/yahoo/react-intl) - react 전용 다국어 지원 컴포넌트
