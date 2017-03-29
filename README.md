@@ -19,4 +19,4 @@
 
 
 ## Math
-* [vectorious](ttps://github.com/mateogianolio/vectorious) - High performance linear algebra.
+* [vectorious](https://github.com/mateogianolio/vectorious) - High performance linear algebra.
