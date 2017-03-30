@@ -8,6 +8,8 @@
 ## React
 ### React Component
 * [react-icons](https://github.com/gorangajic/react-icons) - 웬만한 font icon은 이걸로 다 해결할 수 있을 것 같다.
+* [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your features
+* [rheostat](https://github.com/airbnb/rheostat) - Rheostat is a www, mobile, and accessible slider component built with React
 
 ### React Other
 * [react-bits](https://github.com/vasanthk/react-bits) - React patterns, techniques, tips and tricks
