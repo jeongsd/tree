@@ -27,6 +27,8 @@
 * [babel-plugin-react-intl](https://github.com/yahoo/babel-plugin-react-intl) - react-intl로 된 문법을 파싱하여 json으로 뽑아냄
 * [react-intl-translations-manager](https://github.com/GertjanReynaert/react-intl-translations-manager) - babel-plugin-react-int에서 뽑아낸 json을 cli로 관리하는 도구
 
+## CSS
+* [a-guide-to-flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - The Flexbox Layout (Flexible Box) module (currently a W3C Last Call Working Draft) aims at providing a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic 
 
 ## Math
 * [vectorious](https://github.com/mateogianolio/vectorious) - High performance linear algebra.
