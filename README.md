@@ -34,6 +34,9 @@
 * [vectorious](https://github.com/mateogianolio/vectorious) - High performance linear algebra.
 
 
-## cli
+## CLI
 
 * [ncdu](https://dev.yorhel.nl/ncdu) - Ncdu is a disk usage analyzer with an ncurses interface. 
+
+## Docker
+* [remove docker](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes) -  This cheat sheet-style guide provides a quick reference to commands that are useful for freeing disk space and keeping your system organized by removing unused Docker images, containers, and volumes.
