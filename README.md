@@ -32,3 +32,8 @@
 
 ## Math
 * [vectorious](https://github.com/mateogianolio/vectorious) - High performance linear algebra.
+
+
+## cli
+
+* [ncdu](https://dev.yorhel.nl/ncdu) - Ncdu is a disk usage analyzer with an ncurses interface. 
