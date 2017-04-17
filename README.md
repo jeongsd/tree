@@ -40,3 +40,6 @@
 
 ## Docker
 * [remove docker](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes) -  This cheat sheet-style guide provides a quick reference to commands that are useful for freeing disk space and keeping your system organized by removing unused Docker images, containers, and volumes.
+
+## GLSL
+* [encoding-normalized-floats-to-rgba8-vectors](http://marcodiiga.github.io/encoding-normalized-floats-to-rgba8-vectors) - https://github.com/mrdoob/three.js/blob/dev/examples/webgl_gpu_particle_system.html
