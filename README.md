@@ -43,3 +43,4 @@
 
 ## GLSL
 * [encoding-normalized-floats-to-rgba8-vectors](http://marcodiiga.github.io/encoding-normalized-floats-to-rgba8-vectors) - [webgl gpu particle system](https://github.com/mrdoob/three.js/blob/dev/examples/webgl_gpu_particle_system.html)
+https://www.wikiwand.com/en/Single-precision_floating-point_format
