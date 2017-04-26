@@ -10,6 +10,7 @@
 * [anime](https://github.com/juliangarnier/anime) - Javascript Animation Engine 
 
 ## React
+* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)- There’s a simple pattern I find immensely useful when writing React applications. 
 ### React Component
 * [react-icons](https://github.com/gorangajic/react-icons) - 웬만한 font icon은 이걸로 다 해결할 수 있을 것 같다.
 * [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your features
